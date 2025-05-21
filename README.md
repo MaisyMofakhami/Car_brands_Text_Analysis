@@ -97,4 +97,3 @@ This project analyzes consumer perceptions of car brands using textual data from
 - **Scikit-learn**: Used for dimensionality reduction (MDS) and clustering to identify brand relationships.
 - **NetworkX**: Analyzed and visualized brand-attribute co-occurrence networks.
 - **SciPy**: Statistical calculations for advanced association measures like lift.
-- **Jupyter Notebook**: Interactive environment for running and documenting the analysis.
