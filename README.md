@@ -57,14 +57,13 @@ This project analyzes consumer perceptions of car brands using textual data from
 
 ### General Insights
 - **Brand Differentiation**:  
-  BMW stands out as the most aspirational brand, with strong associations across all major attributes, including performance, design, comfort, build quality, and handling.
+  BMW stands out as the most aspirational brand, with moderate associations across all major attributes, including performance, design, comfort, build quality, and handling.
 
 - **Aspirational Appeal**:  
   BMW had nearly four times more mentions of intent to buy than any other brand, reinforcing its positioning as a highly desirable luxury brand.
 
 - **Attribute Specialization**:
   - **Honda**: Strongly associated with safety, indicating a focus on reliability and family-friendly features.
-  - **Audi**: Leads in design and handling, appealing to consumers seeking a balance of aesthetics and driving dynamics.
   - **Acura**: Performs well in safety and technology, suggesting a focus on innovation and consumer trust.
   - **Infiniti**: Shows strong associations with comfort and technology, positioning itself as a luxurious yet accessible brand.
 
